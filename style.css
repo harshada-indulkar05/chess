@@ -1,0 +1,17 @@
+body{
+    background-image: url(download.jpeg);
+}
+.black{
+    height:100px;
+    width:100px;
+    background-color:black;
+    display:inline-block;
+    position:relative;
+}
+.white{
+    height:100px;
+    width:100px;
+    background-color:white;
+    display:inline-block;
+    position:relative;
+}
