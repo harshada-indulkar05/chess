@@ -1,0 +1,19 @@
+body{
+    background-image: url(wood.jpg);
+    margin-top: 200px;
+}
+
+.black{
+    height:100px;
+    width:100px;
+    background-color:black;
+    display:inline-block;
+    position:relative;
+}
+.white{
+    height:100px;
+    width:100px;
+    background-color:white;
+    display:inline-block;
+    position:relative;
+}
